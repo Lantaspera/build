@@ -1,0 +1,44 @@
+
+ 
+
+ 
+.logo{
+
+
+width: 200px;
+margin-left: 6vw;
+margin-top: 1vw;
+    
+
+
+    
+}
+
+
+
+.home,
+.services,
+.contact,
+.about{
+    text-decoration: none;
+    font-size: 17px;
+    color: rgba(64, 82, 99, 1);
+    padding: 10px 20px;
+    margin: 0 10px;
+    cursor: pointer;
+text-decoration: none;
+
+    
+}
+
+
+
+.home:hover,
+.services:hover,
+.contact:hover,
+.about:hover{ color: red;
+}
+
+.hai{
+    box-shadow: rgba(237, 28, 36, 1);
+}
