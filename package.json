@@ -1,6 +1,7 @@
 {
   "name": "newlantawebpage",
   "version": "0.1.0",
+  "homepage": "http://lantaspera.github.io/build2.0",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.5.0",
@@ -17,6 +18,7 @@
     "bootstrap-icons": "^1.7.1",
     "emailjs-com": "^3.2.0",
     "get-google-fonts": "^1.2.2",
+    "gh-pages": "^3.2.3",
     "react": "^17.0.2",
     "react-bootstrap": "^2.0.1",
     "react-collapsible": "^2.8.4",
@@ -38,7 +40,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "deploy": "npm run build && gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
