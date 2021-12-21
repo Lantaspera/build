@@ -1,5 +1,5 @@
 import React from 'react'
-import { Col,  Row, } from 'react-bootstrap'
+import { Col, Row, } from 'react-bootstrap'
 import "./abouttwo.css"
 import TipsAndUpdatesOutlinedIcon from '@mui/icons-material/TipsAndUpdatesOutlined';
 
@@ -12,7 +12,7 @@ function AboutTwo() {
 
 
             <Row className="abt2-mainsctn1" >
-            <Col><h1 className="abt2-main-heading" data-aos="flip-up">We Are Expert In IT <br/>Solutions Services</h1></Col>
+                <Col><h1 className="abt2-main-heading" data-aos="flip-up">We Are Expert In IT <br />Solutions Services</h1></Col>
                 <Row className="abt2-sctn2" xs={1} md={1}>
 
                     <Col className="abt2-colone" data-aos="zoom-in-up">
@@ -24,13 +24,13 @@ function AboutTwo() {
 
                     <Col className="abt2-colone" data-aos="zoom-in-up">
                         <Col><h1 className="abt2-col-s-head"> <TipsAndUpdatesOutlinedIcon sx={{ fontSize: 40 }} /> Dedicated Front end and Back end developers.</h1></Col>
-                        <Col><p className="abt2-col-s-tag">Our core experts uses advanced web development technology to strengthen your online platform.We are passionate in learning new trends for providing advanced technology for users</p></Col>
+                        <Col><p className="abt2-col-s-tag">Our core experts uses advanced web development technology to strengthen your online platform.We are passionate in learning new trends for providing advanced technology for users.</p></Col>
 
 
                     </Col>
                     <Col className="abt2-colone" data-aos="zoom-in-up">
                         <Col><h1 className="abt2-col-s-head"> <TipsAndUpdatesOutlinedIcon sx={{ fontSize: 40 }} />SEO Friendly.</h1></Col>
-                        <Col><p className="abt2-col-s-tag">We provide relevant authoritative content which improves your site quality.A SEO friendly website will get you more traffic from search engines.our experts ensure it.</p></Col>
+                        <Col><p className="abt2-col-s-tag">We provide relevant authoritative content which improves your site quality.A SEO friendly website will get you more traffic from search engines.Our experts ensure it.</p></Col>
 
 
                     </Col>
@@ -42,20 +42,20 @@ function AboutTwo() {
 
                     <Col className="abt2-colone" data-aos="zoom-in-up">
                         <Col><h1 className="abt2-col-s-head"> <TipsAndUpdatesOutlinedIcon sx={{ fontSize: 40 }} /> Responsive.</h1></Col>
-                        <Col><p className="abt2-col-s-tag">Our web designing  teams will create layout for all screen sizes that suite for any devices.We give high priority, on ensuring your designs are accessible on any platform with a considerable user base</p></Col>
+                        <Col><p className="abt2-col-s-tag">Our web designing  teams will create layout for all screen sizes that suite for any devices.We give high priority, on ensuring your designs are accessible on any platform with a considerable user base.</p></Col>
 
 
                     </Col>
 
                     <Col className="abt2-colone" data-aos="zoom-in-up">
                         <Col><h1 className="abt2-col-s-head"> <TipsAndUpdatesOutlinedIcon sx={{ fontSize: 40 }} /> Comprehensive Project Management.</h1></Col>
-                        <Col><p className="abt2-col-s-tag">Our experienced managing  team manages every tasks with efficient methodology and handle all projects with complete responsibility to attain your vission</p></Col>
+                        <Col><p className="abt2-col-s-tag">Our experienced managing  team manages every tasks with efficient methodology and handle all projects with complete responsibility to attain your vision.</p></Col>
 
 
                     </Col>
                     <Col className="abt2-colone" data-aos="zoom-in-up">
                         <Col><h1 className="abt2-col-s-head"> <TipsAndUpdatesOutlinedIcon sx={{ fontSize: 40 }} />Custom Design.</h1></Col>
-                        <Col><p className="abt2-col-s-tag">We willl customize the design and functions which meets your business  requirements.it alows you to select content layout,design of your project</p></Col>
+                        <Col><p className="abt2-col-s-tag">We will customize the design and functions which meets your business  requirements.It allows you to select content layout,design of your project.</p></Col>
 
 
                     </Col>
@@ -70,7 +70,7 @@ function AboutTwo() {
 
             </Row>
         </Row>
-
+           
     )
 }
 

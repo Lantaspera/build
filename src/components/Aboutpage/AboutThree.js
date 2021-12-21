@@ -26,7 +26,7 @@ function AboutThree() {
      data-aos-anchor-placement="center-bottom" className="abt3-card-mdiv" >
                             <Card.Img className="abt3-cardimage" variant="top" src="https://res.cloudinary.com/lanta/image/upload/v1639912196/20211025_121437-01-01_ns31wr.jpg" />
                             <Card.Body>
-                                <Card.Title><h1  className="abt3-desntn-tag">//Fonder //</h1></Card.Title>
+                                <Card.Title><h1  className="abt3-desntn-tag">//Founder //</h1></Card.Title>
                                
                                 <h1 className="abt3-membrname">Adrid Sadanand P</h1>
                                 <Card.Title className="abt3-desntn-tag2">COO</Card.Title>
@@ -38,7 +38,7 @@ function AboutThree() {
      data-aos-anchor-placement="center-bottom" className="abt3-card-mdiv" >
                             <Card.Img className="abt3-cardimage" variant="top" src="https://res.cloudinary.com/lanta/image/upload/v1639412413/IMG_20190624_182214_z0opug.jpg" />
                             <Card.Body>
-                                <Card.Title className="abt3-desntn-tag">// Co-Fonder //</Card.Title>
+                                <Card.Title className="abt3-desntn-tag">// Co-Founder //</Card.Title>
                                 
                                 <h1 className="abt3-membrname">Akshay Nambiar P V</h1>
                                 <Card.Title className="abt3-desntn-tag2">CEO</Card.Title>
@@ -51,7 +51,7 @@ function AboutThree() {
      data-aos-anchor-placement="center-bottom" className="abt3-card-mdiv" >
                             <Card.Img className="abt3-cardimage" variant="top" src="https://res.cloudinary.com/lanta/image/upload/v1639507076/azhar_eo1tvs.jpg" />
                             <Card.Body>
-                                <Card.Title className="abt3-desntn-tag">// Co-Fonder //</Card.Title>
+                                <Card.Title className="abt3-desntn-tag">// Co-Founder //</Card.Title>
                                 
                                 <h1 className="abt3-membrname">Azhar Ali Kalarickal</h1>
                                 <Card.Title className="abt3-desntn-tag2">CTO</Card.Title>
@@ -61,7 +61,7 @@ function AboutThree() {
      data-aos-anchor-placement="center-bottom" className="abt3-card-mdiv" >
                             <Card.Img className="abt3-cardimage" variant="top" src="https://res.cloudinary.com/lanta/image/upload/v1639497487/8A2F7A98-F0C9-4F59-BCEC-2500C1CB69C4_w4v74j.jpg" />
                             <Card.Body>
-                                <Card.Title className="abt3-desntn-tag">// Co-Fonder //</Card.Title>
+                                <Card.Title className="abt3-desntn-tag">// Co-Founder //</Card.Title>
                                 
                                 <h1 className="abt3-membrname">Abdul Basith C</h1>
                                 <Card.Title className="abt3-desntn-tag2">CAO</Card.Title>
@@ -71,7 +71,7 @@ function AboutThree() {
      data-aos-anchor-placement="center-bottom" className="abt3-card-mdiv" >
                             <Card.Img className="abt3-cardimage" variant="top" src="https://res.cloudinary.com/lanta/image/upload/v1633623597/gagananpic_ubhixq.jpg" />
                             <Card.Body>
-                                <Card.Title className="abt3-desntn-tag">// Co-Fonder //</Card.Title>
+                                <Card.Title className="abt3-desntn-tag">// Co-Founder //</Card.Title>
                               
                                 <h1 className="abt3-membrname">Gagana Karpoorachalil</h1>
                                 <Card.Title className="abt3-desntn-tag2">CDO</Card.Title>
@@ -85,7 +85,7 @@ function AboutThree() {
      data-aos-anchor-placement="center-bottom" className="abt3-card-mdiv" >
                             <Card.Img className="abt3-cardimage" variant="top" src="https://res.cloudinary.com/lanta/image/upload/v1639417818/20140223_041605_xvei9p.jpg" />
                             <Card.Body>
-                                <Card.Title className="abt3-desntn-tag">// Co-Fonder //</Card.Title>
+                                <Card.Title className="abt3-desntn-tag">// Co-Founder //</Card.Title>
                               
                                 <h1 className="abt3-membrname">Donna Susan Samuel</h1>
                                 <Card.Title className="abt3-desntn-tag2">CIO</Card.Title>
@@ -95,7 +95,7 @@ function AboutThree() {
      data-aos-anchor-placement="center-bottom" className="abt3-card-mdiv" >
                             <Card.Img className="abt3-cardimage" variant="top" src="https://res.cloudinary.com/lanta/image/upload/v1639500367/IMG_20211010_221625_981_n73l8g.jpg" />
                             <Card.Body>
-                                <Card.Title className="abt3-desntn-tag">// Co-Fonder //</Card.Title>
+                                <Card.Title className="abt3-desntn-tag">// Co-Founder //</Card.Title>
                                
                                 <h1 className="abt3-membrname">Anusha Surendran</h1>
                                 <Card.Title className="abt3-desntn-tag2">CFO</Card.Title>
@@ -105,7 +105,7 @@ function AboutThree() {
      data-aos-anchor-placement="center-bottom" className="abt3-card-mdiv" >
                             <Card.Img className="abt3-cardimage" variant="top" src="https://res.cloudinary.com/lanta/image/upload/v1639497508/IMG-20211214-WA0029_jtcpz8.jpg" />
                             <Card.Body>
-                                <Card.Title className="abt3-desntn-tag">// Co-Fonder //</Card.Title>
+                                <Card.Title className="abt3-desntn-tag">// Co-Founder //</Card.Title>
                              
                                 <h1 className="abt3-membrname">Bista Paulose</h1>
                                 <Card.Title className="abt3-desntn-tag2">CMO</Card.Title>

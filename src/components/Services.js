@@ -5,26 +5,26 @@ import ServiceTwo from './Servicespage/ServiceTwo'
 import SectionSeven from './Landingpage/SectionSeven'
 import ServicesThree from './Servicespage/ServicesThree'
 import { useEffect } from 'react'
+import { Container } from 'react-bootstrap'
 
 function Services() {
 
-    useEffect(() => {
-        window.scrollTo(0, 0)
-      }, [])
+  useEffect(() => {
+    window.scrollTo(0, 0)
+  }, [])
 
-    return (
-        <div className="services-main-div">
-        
-      
-      <ServiceOne/>
-      <ServiceTwo/>
-      <ServicesThree/>
-      <SectionSeven/>
+  return (
+    <div className="services-main-div">
 
-          
-          </div>
- 
-    )
+      <ServiceOne />
+      <ServiceTwo />
+      <ServicesThree />
+      <SectionSeven />
+
+
+    </div>
+
+  )
 }
 
 export default Services

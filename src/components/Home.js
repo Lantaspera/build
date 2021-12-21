@@ -1,14 +1,16 @@
-import React from 'react'
-import {  Container } from 'react-bootstrap'
-import "./Home.css"
-import SectionOne from './Landingpage/SectionOne';
+import React from 'react';
+import "./Home.css";
+
 import ServiceCarousel from './Landingpage/ServiceCarousel';
 import SectionThree from './Landingpage/SectionThree';
 import SectionFour from './Landingpage/SectionFour';
 import SectionFive from './Landingpage/SectionFive';
 import SectionSix from './Landingpage/SectionSix';
 import SectionSeven from './Landingpage/SectionSeven';
-import { useEffect } from 'react'
+import { useEffect } from 'react';
+import SectionStart from './Landingpage/SectionStart';
+import { Container } from 'react-bootstrap';
+
 
 
 
@@ -20,22 +22,20 @@ function Home() {
     window.scrollTo(0, 0)
   }, [])
   return (
-    <div className="home-page-main"  >
-<Container fluid>
-<SectionOne/>
-     
+    <div className='home-page-main' >
 
- <ServiceCarousel/>
 
-<SectionThree/>
 
-<SectionFour/>
-<SectionFive/>
-
-<SectionSix/>
-<SectionSeven/>
-
-</Container>
+     <Container fluid >
+       
+      <SectionStart/>
+      <ServiceCarousel />
+      <SectionThree />
+      <SectionFour />
+      <SectionFive />
+      <SectionSix />
+      <SectionSeven />
+      </Container>
     </div>
   )
 }
